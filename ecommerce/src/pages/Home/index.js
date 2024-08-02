@@ -1,2 +1,0 @@
-
-// Display simple Product Page
